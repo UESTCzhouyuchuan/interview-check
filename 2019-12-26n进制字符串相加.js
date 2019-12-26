@@ -120,7 +120,7 @@ class calculate {
 	}
 	_subtract() {
 		/**
-		 * 和_add类型
+		 * 和_add类似
 		 * 但需要考虑符号问题，更加复杂
 		 * 有待实现
 		 */
