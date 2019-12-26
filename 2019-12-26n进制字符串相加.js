@@ -118,7 +118,13 @@ class calculate {
 		}
 		return res;
 	}
-	_subtract() {}
+	_subtract() {
+		/**
+		 * 和_add类型
+		 * 但需要考虑符号问题，更加复杂
+		 * 有待实现
+		 */
+	}
 	hasCarry(numbers) {
 		return (
 			numbers.reduce((total, value, index) => {
